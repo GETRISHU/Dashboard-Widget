@@ -1,5 +1,5 @@
 🚀 Dashboard App
-A React dashboard built with Vite and TypeScript, featuring state management and dynamic widgets.
+A React ⚛️ dashboard built with Vite and  + TypeScript 📝 + TailwindCSS 🎨, featuring state management and dynamic widgets.
 
 ✨ Features
 🧠 Dashboard Context for efficient state management
