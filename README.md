@@ -33,6 +33,11 @@ npx shadcn-ui@latest add button card input dialog checkbox
 npm run dev
 🚀 Usage
 Run the development server and open the app in your browser. Use the dashboard to view widgets organized by category and add new widgets via the modal.
+
+#
+IMAGE
+![image](https://github.com/user-attachments/assets/72f72dcc-8a2b-400a-8a10-68619994a42e)
+
 #
 📄 License
 MIT License © 2025 Rishi Ranjan Kumar
